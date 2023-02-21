@@ -1,10 +1,10 @@
-package com.example.bnet_test.data
+package com.example.bnet_test.main_screen.data
 
-import com.example.bnet_test.data.model.MainRemoteModel
-import com.example.bnet_test.domain.MainModel
+import com.example.bnet_test.main_screen.data.model.MainRemoteModel
+import com.example.bnet_test.main_screen.domain.MainScreenModel
 
 
-fun MainRemoteModel.toDomain() = MainModel(
+fun MainRemoteModel.toDomain() = MainScreenModel(
     id = id ?: 0,
     image = img ?: "",
 )

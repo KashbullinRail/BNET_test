@@ -1,4 +1,4 @@
-package com.example.bnet_test.domain
+package com.example.bnet_test.main_screen.domain
 
 import com.example.bnet_test.base.attempt
 

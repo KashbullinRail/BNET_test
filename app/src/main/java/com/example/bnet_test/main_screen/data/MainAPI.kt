@@ -1,6 +1,6 @@
-package com.example.bnet_test.data
+package com.example.bnet_test.main_screen.data
 
-import com.example.bnet_test.data.model.MainRemoteModel
+import com.example.bnet_test.main_screen.data.model.MainRemoteModel
 import retrofit2.http.GET
 import retrofit2.http.Query
 

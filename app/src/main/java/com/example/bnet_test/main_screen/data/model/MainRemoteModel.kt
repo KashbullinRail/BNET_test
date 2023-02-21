@@ -1,4 +1,4 @@
-package com.example.bnet_test.data.model
+package com.example.bnet_test.main_screen.data.model
 
 import com.google.gson.annotations.SerializedName
 
